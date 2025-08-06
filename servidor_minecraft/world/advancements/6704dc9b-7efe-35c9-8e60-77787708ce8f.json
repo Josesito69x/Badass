@@ -474,15 +474,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:drowned": "2025-08-05 01:34:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-08-05 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-08-05 01:34:08 +0000"
     },
     "done": true
   },
@@ -610,9 +610,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_cobblestone": "2025-08-05 01:15:49 +0000"
+      "has_planks": "2025-08-05 01:15:04 +0000"
     },
     "done": true
   },
@@ -622,9 +622,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_planks": "2025-08-05 01:15:04 +0000"
+      "has_cobblestone": "2025-08-05 01:15:49 +0000"
     },
     "done": true
   },

@@ -792,3 +792,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [06Aug2025 05:04:16.344] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [06Aug2025 05:04:16.410] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [06Aug2025 05:04:16.447] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06Aug2025 05:13:47.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a41acfe
+[06Aug2025 05:13:47.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:59605] logged in with entity id 703 at (13.176657978359795, 82.0, 220.97649761804783)
+[06Aug2025 05:13:47.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
+[06Aug2025 05:13:48.098] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
+[06Aug2025 05:13:50.398] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
+[06Aug2025 05:13:50.400] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
+[06Aug2025 05:14:08.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 05:14:18.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the time to 1000]
+[06Aug2025 05:18:09.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2276c3b1
+[06Aug2025 05:18:09.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:36759] logged in with entity id 1473 at (29.7063899621048, 71.0, 74.29623728243398)
+[06Aug2025 05:18:09.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
+[06Aug2025 05:18:10.031] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[06Aug2025 05:18:19.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
+[06Aug2025 05:18:19.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
+[06Aug2025 05:20:52.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 05:20:59.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
