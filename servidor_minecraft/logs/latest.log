@@ -1,18 +1,22 @@
-[06Aug2025 05:56:01.718] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[06Aug2025 05:56:01.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[06Aug2025 05:56:03.532] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Badass/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[06Aug2025 05:56:04.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:56:04.179] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:56:04.180] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:56:04.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:56:04.373] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[06Aug2025 05:56:09.107] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Aug2025 05:56:09.233] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[06Aug2025 05:56:09.236] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Aug2025 05:56:09.248] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Aug2025 05:56:09.259] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Aug2025 05:56:20.484] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[06Aug2025 05:56:20.506] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
+[06Aug2025 23:49:57.776] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[06Aug2025 23:49:57.779] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[06Aug2025 23:49:59.392] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Badass/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[06Aug2025 23:50:00.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 23:50:00.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 23:50:00.027] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 23:50:00.029] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 23:50:00.181] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Aug2025 23:50:04.540] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Aug2025 23:50:04.652] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[06Aug2025 23:50:04.659] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Aug2025 23:50:04.672] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 23:50:04.682] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 23:50:15.941] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Aug2025 23:50:15.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[06Aug2025 23:50:15.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[06Aug2025 23:50:15.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[06Aug2025 23:50:15.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[06Aug2025 23:50:15.987] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
                      ==     =-
                      ==    ==
                ==    ========     =-
@@ -37,73 +41,69 @@
                     =     ==
                    *=     =+
 
-[06Aug2025 05:56:20.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[06Aug2025 05:56:20.523] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[06Aug2025 05:56:20.523] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[06Aug2025 05:56:20.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[06Aug2025 05:56:20.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[06Aug2025 05:56:20.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[06Aug2025 05:56:20.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[06Aug2025 05:56:20.530] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[06Aug2025 05:56:20.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[06Aug2025 05:56:20.535] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[06Aug2025 05:56:20.753] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[06Aug2025 05:56:20.754] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
-[06Aug2025 05:56:20.754] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.0 Initialized
-[06Aug2025 05:56:29.359] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[06Aug2025 05:56:29.360] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[06Aug2025 05:56:30.041] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[06Aug2025 05:56:30.060] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[06Aug2025 05:56:30.072] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[06Aug2025 05:56:30.138] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[06Aug2025 05:56:30.549] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
-[06Aug2025 05:56:30.547] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[06Aug2025 05:56:30.554] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
-[06Aug2025 05:56:30.602] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[06Aug2025 05:56:30.605] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[06Aug2025 05:56:30.606] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[06Aug2025 05:56:30.622] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:56:30.678] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:56:30.689] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:56:30.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
-[06Aug2025 05:56:30.876] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/growing-patterns.json5" was read.
-[06Aug2025 05:56:31.014] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/trades.json5" was read.
-[06Aug2025 05:56:31.069] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/settings.json5" was read.
-[06Aug2025 05:56:31.087] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/biomepedia.json5" was read.
-[06Aug2025 05:56:31.384] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Badass/servidor_minecraft/config/byg" in "/workspaces/Badass/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
-[06Aug2025 05:56:31.416] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
-[06Aug2025 05:56:31.425] [main/INFO] [journeymap/]: Initializing Packet Registries
-[06Aug2025 05:56:31.500] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
-[06Aug2025 05:56:31.514] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
-[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
-[06Aug2025 05:56:31.563] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
-[06Aug2025 05:56:31.564] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
-[06Aug2025 05:56:31.565] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
-[06Aug2025 05:56:31.747] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[06Aug2025 05:56:31.747] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[06Aug2025 05:56:31.756] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[06Aug2025 05:56:31.773] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[06Aug2025 05:56:31.816] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[06Aug2025 05:56:31.825] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
-[06Aug2025 05:56:31.833] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[06Aug2025 05:56:31.850] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
-[06Aug2025 05:56:31.853] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
-[06Aug2025 05:56:31.856] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
-[06Aug2025 05:56:31.859] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
-[06Aug2025 05:56:32.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
-[06Aug2025 05:56:32.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[06Aug2025 05:56:32.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
-[06Aug2025 05:56:32.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[06Aug2025 05:56:32.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.10
-[06Aug2025 05:56:32.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06Aug2025 05:56:32.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.7 Target: 7.7.7
-[06Aug2025 05:56:32.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[06Aug2025 05:56:33.038] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[06Aug2025 23:50:15.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[06Aug2025 23:50:15.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[06Aug2025 23:50:15.994] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[06Aug2025 23:50:15.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[06Aug2025 23:50:15.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[06Aug2025 23:50:15.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[06Aug2025 23:50:15.995] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[06Aug2025 23:50:16.003] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[06Aug2025 23:50:16.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[06Aug2025 23:50:16.204] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Aug2025 23:50:16.207] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
+[06Aug2025 23:50:16.208] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.0 Initialized
+[06Aug2025 23:50:25.508] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[06Aug2025 23:50:25.509] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[06Aug2025 23:50:26.232] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[06Aug2025 23:50:26.258] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[06Aug2025 23:50:26.272] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 23:50:26.348] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 23:50:26.614] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+[06Aug2025 23:50:26.622] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
+[06Aug2025 23:50:26.627] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06Aug2025 23:50:26.647] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[06Aug2025 23:50:26.648] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06Aug2025 23:50:26.648] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[06Aug2025 23:50:26.653] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 23:50:26.707] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 23:50:26.717] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 23:50:26.829] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+[06Aug2025 23:50:26.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[06Aug2025 23:50:27.118] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/trades.json5" was read.
+[06Aug2025 23:50:27.210] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/settings.json5" was read.
+[06Aug2025 23:50:27.217] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/biomepedia.json5" was read.
+[06Aug2025 23:50:27.340] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Badass/servidor_minecraft/config/byg" in "/workspaces/Badass/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+[06Aug2025 23:50:27.355] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
+[06Aug2025 23:50:27.517] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Aug2025 23:50:27.607] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
+[06Aug2025 23:50:27.616] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
+[06Aug2025 23:50:27.676] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Aug2025 23:50:27.676] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Aug2025 23:50:27.677] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[06Aug2025 23:50:27.680] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[06Aug2025 23:50:27.682] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[06Aug2025 23:50:27.683] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[06Aug2025 23:50:27.890] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[06Aug2025 23:50:27.891] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[06Aug2025 23:50:27.905] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[06Aug2025 23:50:27.922] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[06Aug2025 23:50:27.945] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[06Aug2025 23:50:27.954] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[06Aug2025 23:50:27.962] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[06Aug2025 23:50:27.978] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
+[06Aug2025 23:50:27.982] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
+[06Aug2025 23:50:27.987] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
+[06Aug2025 23:50:27.990] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[06Aug2025 23:50:28.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
+[06Aug2025 23:50:28.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Aug2025 23:50:28.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[06Aug2025 23:50:28.485] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Aug2025 23:50:28.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.10
+[06Aug2025 23:50:28.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Aug2025 23:50:28.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.7 Target: 7.7.7
+[06Aug2025 23:50:28.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[06Aug2025 23:50:28.950] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2320!/:?]
@@ -118,24 +118,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
 	... 6 more
-[06Aug2025 05:56:33.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[06Aug2025 05:56:33.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
-[06Aug2025 05:56:33.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[06Aug2025 05:56:33.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.16.5 Target: 3.16.6
-[06Aug2025 05:56:33.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[06Aug2025 05:56:33.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.1 Target: 1.18.2-2.5.35
-[06Aug2025 05:56:33.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Aug2025 05:56:33.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.0 Target: 40.3.0
-[06Aug2025 05:56:38.046] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Aug2025 05:56:42.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/assets/.mcassetsroot' uses unexpected schema
-[06Aug2025 05:56:42.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/data/.mcassetsroot' uses unexpected schema
-[06Aug2025 05:56:48.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:56:48.337] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:56:48.345] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:56:48.350] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:56:48.351] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:56:48.359] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:56:58.450] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
+[06Aug2025 23:50:28.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[06Aug2025 23:50:28.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
+[06Aug2025 23:50:28.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[06Aug2025 23:50:29.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.16.5 Target: 3.16.6
+[06Aug2025 23:50:29.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06Aug2025 23:50:29.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.1 Target: 1.18.2-2.5.35
+[06Aug2025 23:50:29.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Aug2025 23:50:29.470] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.0 Target: 40.3.0
+[06Aug2025 23:50:35.621] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Aug2025 23:50:39.967] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/assets/.mcassetsroot' uses unexpected schema
+[06Aug2025 23:50:39.968] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/data/.mcassetsroot' uses unexpected schema
+[06Aug2025 23:50:45.875] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 23:50:45.880] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 23:50:45.887] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 23:50:45.889] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 23:50:45.892] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 23:50:45.896] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 23:50:56.091] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -178,7 +178,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.488] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
+[06Aug2025 23:50:56.136] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -221,7 +221,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.494] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
+[06Aug2025 23:50:56.141] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -264,7 +264,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.512] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
+[06Aug2025 23:50:56.155] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -307,7 +307,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.531] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
+[06Aug2025 23:50:56.184] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -350,7 +350,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.583] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
+[06Aug2025 23:50:56.229] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -393,7 +393,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.607] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
+[06Aug2025 23:50:56.261] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -436,7 +436,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.652] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
+[06Aug2025 23:50:56.313] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -479,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.678] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
+[06Aug2025 23:50:56.330] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -522,7 +522,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.684] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
+[06Aug2025 23:50:56.332] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
 com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
@@ -569,7 +569,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.709] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
+[06Aug2025 23:50:56.359] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -612,7 +612,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.735] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
+[06Aug2025 23:50:56.386] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -655,7 +655,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.739] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
+[06Aug2025 23:50:56.387] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -698,7 +698,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.750] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
+[06Aug2025 23:50:56.392] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -741,396 +741,71 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:56:58.755] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[06Aug2025 05:57:02.234] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3057 advancements
-[06Aug2025 05:57:05.395] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[06Aug2025 05:57:05.406] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[06Aug2025 05:57:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Aug2025 05:57:05.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Aug2025 05:57:05.803] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Aug2025 05:57:06.067] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Aug2025 05:57:06.068] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Aug2025 05:57:06.068] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Aug2025 05:57:06.069] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Aug2025 05:57:06.132] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Aug2025 05:57:06.133] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Aug2025 05:57:06.135] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Aug2025 05:57:07.147] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06Aug2025 05:57:07.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Aug2025 05:57:08.279] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:57:08.295] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:57:08.304] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:57:08.358] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
-[06Aug2025 05:57:08.362] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:57:08.370] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:57:08.376] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:57:08.415] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
-[06Aug2025 05:57:08.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Aug2025 05:57:09.965] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:10.404] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:10.414] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:10.505] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:10.541] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:10.923] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:11.601] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:11.933] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:12.023] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[06Aug2025 05:57:12.459] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:12.920] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:13.067] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[06Aug2025 05:57:13.421] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:13.924] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:57:14.426] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[06Aug2025 05:57:14.924] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Aug2025 05:57:15.237] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[06Aug2025 05:57:15.421] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Aug2025 05:57:15.922] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[06Aug2025 05:57:16.420] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[06Aug2025 05:57:16.922] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[06Aug2025 05:57:17.426] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
-[06Aug2025 05:57:18.185] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9766 ms
-[06Aug2025 05:57:18.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.089s)! For help, type "help"
-[06Aug2025 05:57:18.326] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Aug2025 05:57:18.393] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[06Aug2025 05:57:18.544] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[06Aug2025 05:57:49.690] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@195437e9
-[06Aug2025 05:57:49.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:55573] logged in with entity id 681 at (-5.445226672712847, 60.640529944148334, 151.77641092463944)
-[06Aug2025 05:57:49.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
-[06Aug2025 05:57:50.021] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
-[06Aug2025 05:57:50.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
-[06Aug2025 05:57:50.177] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
-[06Aug2025 05:58:24.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Disconnected
-[06Aug2025 05:58:24.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
-[06Aug2025 05:58:24.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
-[06Aug2025 05:58:34.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e09d9b8
-[06Aug2025 05:58:34.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:49903] logged in with entity id 970 at (-2.9780821780262867, 80.0, 227.23639115087272)
-[06Aug2025 05:58:34.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
-[06Aug2025 05:58:34.382] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
-[06Aug2025 05:58:34.644] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
-[06Aug2025 05:58:34.645] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
-[06Aug2025 05:59:34.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c6682c
-[06Aug2025 05:59:34.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:59129] logged in with entity id 1233 at (2.6447952498975646, -29.354581531093345, 304.5165103803737)
-[06Aug2025 05:59:34.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
-[06Aug2025 05:59:34.967] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
-[06Aug2025 05:59:35.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
-[06Aug2025 05:59:35.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
-[06Aug2025 05:59:59.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 06:00:13.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:00:19.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:00:24.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Acquire Hardware]
-[06Aug2025 06:04:39.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Suit Up]
-[06Aug2025 06:04:58.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Isn't It Iron Pick]
-[06Aug2025 06:06:45.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:07:22.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:07:31.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:07:41.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:08:44.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:08:52.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:09:08.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:09:36.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:17:42.529] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-114, y=16, z=543}
-[06Aug2025 06:18:18.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-276, y=8, z=84}
-[06Aug2025 06:19:19.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Cave Spider
-[06Aug2025 06:19:19.492] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:19:19.496] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:19:31.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:19:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 06:19:50.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was slain by Cave Spider
-[06Aug2025 06:19:55.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 06:24:01.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa fell from a high place
-[06Aug2025 06:24:01.495] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 06:24:01.496] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 06:24:09.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 06:25:15.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Diamonds!]
-[06Aug2025 06:25:48.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:28:39.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT hit the ground too hard
-[06Aug2025 06:28:39.588] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:28:39.589] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:29:08.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [Waterworld]
-[06Aug2025 06:32:05.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was shot by Skeleton
-[06Aug2025 06:32:05.038] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 06:32:05.039] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 06:32:18.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Take Aim]
-[06Aug2025 06:32:48.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to Zabitar_YTYT]
-[06Aug2025 06:32:57.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to KillerPCausa]
-[06Aug2025 06:33:23.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [A little cleaning is necessary]
-[06Aug2025 06:34:24.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was doomed to fall by Creeper
-[06Aug2025 06:34:24.573] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:34:24.574] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:37:09.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [A Strange Grave Dust]
-[06Aug2025 06:39:44.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was doomed to fall by Zombie
-[06Aug2025 06:39:44.351] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:39:44.352] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:40:00.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:41:50.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:42:15.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:44:07.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:44:19.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa blew up
-[06Aug2025 06:44:19.300] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 06:44:19.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 06:44:19.301] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:44:19.304] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 06:44:19.305] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:44:29.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa burned to death
-[06Aug2025 06:44:29.340] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 06:44:35.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:44:58.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:45:08.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:45:19.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT blew up
-[06Aug2025 06:46:20.765] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=193, y=6, z=-300}
-[06Aug2025 06:46:21.726] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=50, y=-16, z=-289}
-[06Aug2025 06:47:13.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=-48, z=375} BlockPos{x=235, y=-49, z=375}
-[06Aug2025 06:50:32.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:50:42.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 1 [Stone Pickaxe] to Zabitar_YTYT]
-[06Aug2025 06:50:46.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:51:18.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Removed 1 items from player Zabitar_YTYT]
-[06Aug2025 06:51:29.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 1 [Diamond Pickaxe] to Zabitar_YTYT]
-[06Aug2025 06:52:03.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT fell from a high place
-[06Aug2025 06:52:03.020] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:52:03.021] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:52:15.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:52:30.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT fell from a high place
-[06Aug2025 06:54:16.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [Discreet Search]
-[06Aug2025 06:54:25.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 06:54:25.939] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 06:54:25.940] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:54:26.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT blew up
-[06Aug2025 06:54:26.664] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 06:54:41.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=70, z=59}
-[06Aug2025 06:54:41.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=69, z=59}
-[06Aug2025 06:55:55.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:55:58.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:56:43.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 06:57:38.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:57:47.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:57:49.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:57:56.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:57:57.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 06:58:57.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:58:59.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 06:59:08.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
-[06Aug2025 06:59:09.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:00:06.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:00:06.090] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:00:06.103] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:02:44.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:02:55.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:03:32.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:03:33.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:03:33.476] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:03:33.503] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:03:35.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:03:43.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa blew up
-[06Aug2025 07:03:43.839] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:03:43.849] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:03:46.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa burned to death
-[06Aug2025 07:03:46.241] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:04:14.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 07:04:36.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT blew up
-[06Aug2025 07:05:05.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:05:30.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:05:30.846] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:05:30.852] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:05:37.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT burned to death
-[06Aug2025 07:05:37.792] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:05:46.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:07:15.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:07:15.730] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:07:15.752] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:07:37.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa blew up
-[06Aug2025 07:07:37.919] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:07:37.921] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:07:48.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa blew up
-[06Aug2025 07:07:56.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 07:08:30.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa was kicked for floating too long!
-[06Aug2025 07:08:30.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Flying is not enabled on this server
-[06Aug2025 07:08:30.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
-[06Aug2025 07:08:30.036] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
-[06Aug2025 07:08:30.084] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[06Aug2025 07:08:41.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68a1fd4c
-[06Aug2025 07:08:41.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:37371] logged in with entity id 16614 at (367.2358839459196, 98.82830814866819, 365.42620307510145)
-[06Aug2025 07:08:41.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
-[06Aug2025 07:08:41.550] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
-[06Aug2025 07:08:41.759] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
-[06Aug2025 07:08:41.760] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
-[06Aug2025 07:10:29.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was blown up by Piglin Brute
-[06Aug2025 07:10:29.660] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:10:29.664] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:11:18.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Not Today, Thank You]
-[06Aug2025 07:12:05.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=424, y=130, z=438} BlockPos{x=423, y=129, z=438}
-[06Aug2025 07:13:02.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Piglin Brute
-[06Aug2025 07:13:02.985] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:13:02.988] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:15:50.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was blown up by Piglin
-[06Aug2025 07:15:50.097] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:15:50.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was blown up by Piglin
-[06Aug2025 07:15:50.100] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:15:50.751] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:15:50.751] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:15:57.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was burnt to a crisp whilst fighting Piglin
-[06Aug2025 07:15:57.143] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:15:58.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa walked into fire whilst fighting Piglin
-[06Aug2025 07:15:58.189] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:16:10.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:17:39.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa fell from a high place
-[06Aug2025 07:17:39.616] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:17:39.617] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:17:59.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:17:59.993] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:17:59.994] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:18:08.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:18:15.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:18:55.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:18:55.336] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:18:55.338] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:19:06.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:19:06.773] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:19:27.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Sweet Dreams]
-[06Aug2025 07:22:27.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Disconnected
-[06Aug2025 07:22:27.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
-[06Aug2025 07:22:27.491] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
-[06Aug2025 07:24:57.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Best Friends Forever]
-[06Aug2025 07:25:36.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4295f420
-[06Aug2025 07:25:36.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:43575] logged in with entity id 20908 at (422.42908505322566, 96.0, 403.1893501098835)
-[06Aug2025 07:25:36.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
-[06Aug2025 07:25:36.105] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
-[06Aug2025 07:25:39.459] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
-[06Aug2025 07:25:39.460] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
-[06Aug2025 07:25:48.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Pic-A-Nic Basket?]
-[06Aug2025 07:26:52.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Pic-A-Nic Basket?]
-[06Aug2025 07:29:31.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:29:31.180] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:29:31.209] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:30:19.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was doomed to fall by KillerPCausa
-[06Aug2025 07:30:19.541] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:30:19.542] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:30:59.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:30:59.539] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:30:59.540] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:31:04.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:31:13.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:31:41.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:32:13.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa hit the ground too hard
-[06Aug2025 07:32:13.937] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:32:13.938] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:33:24.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:33:24.646] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:33:24.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa blew up
-[06Aug2025 07:33:24.647] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:33:24.655] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:33:24.655] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:33:42.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa blew up
-[06Aug2025 07:34:48.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:34:48.242] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:34:48.253] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:34:53.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT went up in flames
-[06Aug2025 07:34:53.787] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:34:56.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:35:03.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:35:03.859] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:35:03.861] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:35:09.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:36:04.133] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[06Aug2025 07:36:04.135] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[06Aug2025 07:36:05.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
-[06Aug2025 07:37:19.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21864, l='ServerLevel[world]', x=394.50, y=147.00, z=820.50] died, message: 'Librarian blew up'
-[06Aug2025 07:37:19.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:37:19.443] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:37:19.455] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:37:23.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:37:27.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT burned to death
-[06Aug2025 07:37:27.740] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:37:31.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:37:32.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:37:57.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21868, l='ServerLevel[world]', x=398.67, y=147.00, z=833.35] died, message: 'Cleric was slain by Zabitar_YTYT'
-[06Aug2025 07:37:57.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Neighborhood Brawl]
-[06Aug2025 07:38:35.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:38:37.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT fell from a high place
-[06Aug2025 07:38:37.338] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:38:37.339] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:38:49.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:40:06.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21866, l='ServerLevel[world]', x=408.30, y=149.00, z=839.96] died, message: 'Librarian was slain by Zombie'
-[06Aug2025 07:40:46.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Sweet Dreams]
-[06Aug2025 07:41:24.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was doomed to fall by Zabitar_YTYT
-[06Aug2025 07:41:24.139] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:41:24.140] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:41:29.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:41:46.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:42:05.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:42:06.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:43:43.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:43:48.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:44:09.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:44:15.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:44:53.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 07:45:08.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 07:50:13.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:50:13.271] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
-[06Aug2025 07:50:13.272] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
-[06Aug2025 07:50:25.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
-[06Aug2025 07:50:35.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
-[06Aug2025 07:50:35.089] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:50:35.094] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:51:03.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT hit the ground too hard whilst trying to escape KillerPCausa
-[06Aug2025 07:51:03.558] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:51:03.559] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:51:09.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT hit the ground too hard whilst trying to escape KillerPCausa
-[06Aug2025 07:51:19.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:54:56.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Alex's Mobs]
-[06Aug2025 07:57:35.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Tiger
-[06Aug2025 07:57:35.282] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 07:57:35.287] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 07:57:43.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was slain by Tiger
-[06Aug2025 07:57:48.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 07:58:01.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has completed the challenge [Eye of the Tiger]
-[06Aug2025 08:04:31.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the time to 1000]
-[06Aug2025 08:04:34.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the weather to clear]
-[06Aug2025 08:04:56.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to KillerPCausa]
-[06Aug2025 08:07:28.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:07:35.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 08:09:40.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the weather to clear]
-[06Aug2025 08:11:47.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to Zabitar_YTYT]
-[06Aug2025 08:15:15.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> ee
-[06Aug2025 08:21:30.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> ni idea
-[06Aug2025 08:21:35.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Que pasa vro
-[06Aug2025 08:21:40.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Chcha no hablas
-[06Aug2025 08:21:54.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> nd pero creo que mi hermana ta medio dormida
-[06Aug2025 08:22:05.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> dame 5 min y vuelvo
-[06Aug2025 08:22:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Y? que rico
-[06Aug2025 08:22:10.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> a hablar
-[06Aug2025 08:22:12.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Ya bb
-[06Aug2025 08:22:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> wait
-[06Aug2025 08:22:48.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:22:50.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> que fue
-[06Aug2025 08:23:14.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 08:23:31.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:26:52.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Zombie
-[06Aug2025 08:26:52.836] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 08:26:52.843] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 08:27:04.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
-[06Aug2025 08:27:22.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set spawn point to -194, 71, 973 [0.0] in minecraft:overworld for 2 players]
-[06Aug2025 08:28:18.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [Bone Crusher]
-[06Aug2025 08:28:35.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> e
-[06Aug2025 08:29:17.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> bro ya saque madera vn
-[06Aug2025 08:31:36.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Music register]
-[06Aug2025 08:31:48.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Writing...]
-[06Aug2025 08:32:36.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [DJ! DJ!]
-[06Aug2025 08:33:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 08:33:53.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [DJ! DJ!]
-[06Aug2025 08:36:10.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:36:17.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 08:37:09.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was shot by Skeleton
-[06Aug2025 08:37:09.337] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
-[06Aug2025 08:37:09.339] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
-[06Aug2025 08:37:39.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Crops of the Wild]
-[06Aug2025 08:37:46.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Flavia escucha a Trueno
-[06Aug2025 08:37:48.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> xd
-[06Aug2025 08:37:53.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> xd
-[06Aug2025 08:40:01.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:42:12.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 08:44:21.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 08:44:31.402] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cec4cba
-[06Aug2025 08:46:18.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 23:50:56.401] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[06Aug2025 23:50:59.643] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3057 advancements
+[06Aug2025 23:51:02.965] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 23:51:02.976] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 23:51:03.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[06Aug2025 23:51:03.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Aug2025 23:51:03.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Aug2025 23:51:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Aug2025 23:51:03.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Aug2025 23:51:03.279] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Aug2025 23:51:03.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Aug2025 23:51:03.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Aug2025 23:51:03.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Aug2025 23:51:03.493] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Aug2025 23:51:03.569] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 23:51:03.569] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 23:51:03.573] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 23:51:04.552] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Aug2025 23:51:04.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Aug2025 23:51:05.620] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 23:51:05.632] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 23:51:05.635] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 23:51:05.673] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[06Aug2025 23:51:05.674] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 23:51:05.685] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 23:51:05.686] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 23:51:05.782] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[06Aug2025 23:51:05.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Aug2025 23:51:07.839] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:07.866] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:07.953] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:08.001] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:08.016] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:08.343] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:08.937] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:09.288] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:09.793] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:10.287] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:10.788] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:11.288] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:11.790] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 23:51:12.287] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[06Aug2025 23:51:12.793] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 23:51:13.290] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 23:51:13.791] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 23:51:14.291] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 23:51:14.789] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[06Aug2025 23:51:15.289] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[06Aug2025 23:51:15.788] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[06Aug2025 23:51:16.290] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
+[06Aug2025 23:51:16.792] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[06Aug2025 23:51:17.291] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[06Aug2025 23:51:18.016] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12229 ms
+[06Aug2025 23:51:18.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.476s)! For help, type "help"
+[06Aug2025 23:51:18.218] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Aug2025 23:51:18.473] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06Aug2025 23:51:18.520] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06Aug2025 23:54:13.787] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ef7b63
+[06Aug2025 23:54:13.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:43019] logged in with entity id 584 at (-200.36827148947012, 85.0, 1018.193837566124)
+[06Aug2025 23:54:13.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
+[06Aug2025 23:54:13.920] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[06Aug2025 23:54:18.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5124ms or 102 ticks behind
+[06Aug2025 23:54:19.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70d426bc
+[06Aug2025 23:54:20.866] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
+[06Aug2025 23:54:20.868] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
+[06Aug2025 23:54:40.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Disconnected
+[06Aug2025 23:54:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT left the game
+[06Aug2025 23:54:40.181] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zabitar_YTYT
