@@ -407,27 +407,27 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-06 06:26:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/purple_grill": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
     "criteria": {
-      "has_andesite": "2025-08-06 06:18:50 +0000"
+      "has_bucket": "2025-08-06 06:26:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 06:18:50 +0000"
     },
     "done": true
   },
@@ -440,6 +440,12 @@
   "cfm:recipes/cfm/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-06 06:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -464,6 +470,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_desk": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -539,15 +551,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/gravel_mine": {
-    "criteria": {
-      "has_mine": "2025-08-06 06:45:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-08-06 06:27:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-08-06 06:45:58 +0000"
     },
     "done": true
   },
@@ -591,8 +603,10 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-06 05:27:55 +0000",
       "minecraft:spider": "2025-08-06 05:29:16 +0000",
+      "minecraft:piglin_brute": "2025-08-06 07:10:22 +0000",
       "minecraft:creeper": "2025-08-06 05:32:03 +0000",
       "minecraft:cave_spider": "2025-08-06 06:20:20 +0000",
+      "minecraft:piglin": "2025-08-06 07:10:29 +0000",
       "minecraft:enderman": "2025-08-06 05:45:48 +0000",
       "minecraft:zombie": "2025-08-05 01:36:54 +0000",
       "minecraft:drowned": "2025-08-05 01:34:08 +0000"
@@ -605,12 +619,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 06:00:24 +0000"
@@ -620,6 +628,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-08-06 06:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
     },
     "done": true
   },
@@ -749,15 +763,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-06 06:26:26 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-08-06 06:07:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-06 06:26:26 +0000"
     },
     "done": true
   },
@@ -809,15 +823,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-06 06:26:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-06 06:26:26 +0000"
     },
     "done": true
   },
@@ -836,6 +850,12 @@
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-08-05 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-06 07:11:18 +0000"
     },
     "done": true
   },
@@ -978,6 +998,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
       "has_log": "2025-08-05 01:10:39 +0000"
@@ -1005,6 +1031,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -1044,15 +1076,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-06 06:31:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-08-06 06:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-06 06:31:05 +0000"
     },
     "done": true
   },
@@ -1065,6 +1097,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -1104,15 +1142,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-06 06:26:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-06 06:26:26 +0000"
     },
     "done": true
   },
@@ -1430,6 +1468,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2025-08-06 06:11:21 +0000"
@@ -1730,6 +1774,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_crate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-08-06 06:11:21 +0000"
@@ -1854,12 +1904,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-06 06:31:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 06:11:47 +0000"
@@ -1869,6 +1913,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-06 06:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-06 06:31:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-08-06 07:09:42 +0000"
     },
     "done": true
   },
@@ -2034,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-06 06:15:47 +0000"
@@ -2160,6 +2222,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:12:05 +0000"
@@ -2181,6 +2249,12 @@
   "comforts:sleeping_bag_light_gray_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-08-06 05:27:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -2322,6 +2396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-06 06:25:15 +0000"
@@ -2364,9 +2444,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-05 01:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -2412,15 +2504,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-06 06:18:50 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 06:18:50 +0000"
     },
     "done": true
   },
@@ -2502,6 +2594,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
@@ -2511,6 +2609,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-05 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -2538,21 +2642,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-05 01:15:07 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/deepslate_gold_mine": {
-    "criteria": {
-      "has_mine": "2025-08-06 06:45:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-08-06 06:11:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-08-06 06:45:58 +0000"
     },
     "done": true
   },
@@ -2646,15 +2756,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
-    "criteria": {
-      "has_mine": "2025-08-06 06:45:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-08-06 06:18:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-08-06 06:45:58 +0000"
     },
     "done": true
   },
@@ -2679,6 +2789,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
@@ -2814,6 +2930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blast_furnace_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:45:58 +0000"
@@ -2874,9 +2996,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_light": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:10:30 +0000"
     },
     "done": true
   },
