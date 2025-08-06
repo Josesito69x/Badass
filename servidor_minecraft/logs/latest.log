@@ -1,22 +1,18 @@
-[06Aug2025 05:02:59.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[06Aug2025 05:02:59.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[06Aug2025 05:03:01.323] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Badass/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[06Aug2025 05:03:01.945] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:03:01.947] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:03:01.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:03:01.950] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
-[06Aug2025 05:03:02.119] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[06Aug2025 05:03:06.685] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Aug2025 05:03:06.831] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[06Aug2025 05:03:06.834] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Aug2025 05:03:06.845] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Aug2025 05:03:06.855] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Aug2025 05:03:18.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[06Aug2025 05:03:18.154] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[06Aug2025 05:03:18.157] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
+[06Aug2025 05:56:01.718] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[06Aug2025 05:56:01.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[06Aug2025 05:56:03.532] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Badass/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[06Aug2025 05:56:04.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:56:04.179] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:56:04.180] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:56:04.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:56:04.373] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Aug2025 05:56:09.107] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Aug2025 05:56:09.233] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[06Aug2025 05:56:09.236] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Aug2025 05:56:09.248] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 05:56:09.259] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 05:56:20.484] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Aug2025 05:56:20.506] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
                      ==     =-
                      ==    ==
                ==    ========     =-
@@ -41,69 +37,73 @@
                     =     ==
                    *=     =+
 
-[06Aug2025 05:03:18.161] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[06Aug2025 05:03:18.161] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[06Aug2025 05:03:18.162] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[06Aug2025 05:03:18.165] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[06Aug2025 05:03:18.177] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[06Aug2025 05:03:18.177] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
-[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.0 Initialized
-[06Aug2025 05:03:27.655] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[06Aug2025 05:03:27.656] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[06Aug2025 05:03:28.632] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[06Aug2025 05:03:28.659] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[06Aug2025 05:03:28.657] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[06Aug2025 05:03:28.788] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[06Aug2025 05:03:29.016] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[06Aug2025 05:03:29.055] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[06Aug2025 05:03:29.056] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[06Aug2025 05:03:29.056] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[06Aug2025 05:03:29.203] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
-[06Aug2025 05:03:29.211] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
-[06Aug2025 05:03:29.236] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:03:29.252] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:03:29.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
-[06Aug2025 05:03:29.407] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:03:29.468] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/growing-patterns.json5" was read.
-[06Aug2025 05:03:29.548] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/trades.json5" was read.
-[06Aug2025 05:03:29.573] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/settings.json5" was read.
-[06Aug2025 05:03:29.578] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/biomepedia.json5" was read.
-[06Aug2025 05:03:29.699] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Badass/servidor_minecraft/config/byg" in "/workspaces/Badass/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
-[06Aug2025 05:03:29.732] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
-[06Aug2025 05:03:29.747] [main/INFO] [journeymap/]: Initializing Packet Registries
-[06Aug2025 05:03:29.794] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
-[06Aug2025 05:03:29.802] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
-[06Aug2025 05:03:29.834] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06Aug2025 05:03:29.836] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[06Aug2025 05:03:29.837] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
-[06Aug2025 05:03:29.839] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
-[06Aug2025 05:03:29.842] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
-[06Aug2025 05:03:29.847] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
-[06Aug2025 05:03:29.973] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[06Aug2025 05:03:29.974] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[06Aug2025 05:03:29.992] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[06Aug2025 05:03:30.011] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[06Aug2025 05:03:30.038] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[06Aug2025 05:03:30.047] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
-[06Aug2025 05:03:30.053] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[06Aug2025 05:03:30.167] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
-[06Aug2025 05:03:30.180] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
-[06Aug2025 05:03:30.188] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
-[06Aug2025 05:03:30.189] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
-[06Aug2025 05:03:30.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
-[06Aug2025 05:03:30.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[06Aug2025 05:03:30.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
-[06Aug2025 05:03:30.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[06Aug2025 05:03:31.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.10
-[06Aug2025 05:03:31.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06Aug2025 05:03:31.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.7 Target: 7.7.7
-[06Aug2025 05:03:31.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[06Aug2025 05:03:31.373] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[06Aug2025 05:56:20.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[06Aug2025 05:56:20.523] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[06Aug2025 05:56:20.523] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[06Aug2025 05:56:20.524] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[06Aug2025 05:56:20.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[06Aug2025 05:56:20.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[06Aug2025 05:56:20.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[06Aug2025 05:56:20.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[06Aug2025 05:56:20.530] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[06Aug2025 05:56:20.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[06Aug2025 05:56:20.535] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[06Aug2025 05:56:20.753] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Aug2025 05:56:20.754] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
+[06Aug2025 05:56:20.754] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.0 Initialized
+[06Aug2025 05:56:29.359] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[06Aug2025 05:56:29.360] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[06Aug2025 05:56:30.041] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[06Aug2025 05:56:30.060] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 05:56:30.072] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[06Aug2025 05:56:30.138] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 05:56:30.549] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+[06Aug2025 05:56:30.547] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06Aug2025 05:56:30.554] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
+[06Aug2025 05:56:30.602] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[06Aug2025 05:56:30.605] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06Aug2025 05:56:30.606] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[06Aug2025 05:56:30.622] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:56:30.678] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:56:30.689] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:56:30.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[06Aug2025 05:56:30.876] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+[06Aug2025 05:56:31.014] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/trades.json5" was read.
+[06Aug2025 05:56:31.069] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/settings.json5" was read.
+[06Aug2025 05:56:31.087] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/biomepedia.json5" was read.
+[06Aug2025 05:56:31.384] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Badass/servidor_minecraft/config/byg" in "/workspaces/Badass/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+[06Aug2025 05:56:31.416] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
+[06Aug2025 05:56:31.425] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Aug2025 05:56:31.500] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
+[06Aug2025 05:56:31.514] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
+[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Aug2025 05:56:31.557] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[06Aug2025 05:56:31.563] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[06Aug2025 05:56:31.564] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[06Aug2025 05:56:31.565] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[06Aug2025 05:56:31.747] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[06Aug2025 05:56:31.747] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[06Aug2025 05:56:31.756] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[06Aug2025 05:56:31.773] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[06Aug2025 05:56:31.816] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[06Aug2025 05:56:31.825] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[06Aug2025 05:56:31.833] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[06Aug2025 05:56:31.850] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
+[06Aug2025 05:56:31.853] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
+[06Aug2025 05:56:31.856] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
+[06Aug2025 05:56:31.859] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[06Aug2025 05:56:32.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
+[06Aug2025 05:56:32.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Aug2025 05:56:32.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[06Aug2025 05:56:32.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Aug2025 05:56:32.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.10
+[06Aug2025 05:56:32.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Aug2025 05:56:32.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.7 Target: 7.7.7
+[06Aug2025 05:56:32.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[06Aug2025 05:56:33.038] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2320!/:?]
@@ -118,24 +118,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
 	... 6 more
-[06Aug2025 05:03:31.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[06Aug2025 05:03:31.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
-[06Aug2025 05:03:31.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[06Aug2025 05:03:31.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.16.5 Target: 3.16.6
-[06Aug2025 05:03:31.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[06Aug2025 05:03:31.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.1 Target: 1.18.2-2.5.35
-[06Aug2025 05:03:31.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Aug2025 05:03:31.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.0 Target: 40.3.0
-[06Aug2025 05:03:36.483] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Aug2025 05:03:40.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/assets/.mcassetsroot' uses unexpected schema
-[06Aug2025 05:03:40.613] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/data/.mcassetsroot' uses unexpected schema
-[06Aug2025 05:03:46.414] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:03:46.416] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:03:46.426] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:03:46.429] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:03:46.433] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[06Aug2025 05:03:46.440] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[06Aug2025 05:03:57.042] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
+[06Aug2025 05:56:33.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[06Aug2025 05:56:33.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
+[06Aug2025 05:56:33.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[06Aug2025 05:56:33.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.16.5 Target: 3.16.6
+[06Aug2025 05:56:33.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06Aug2025 05:56:33.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.1 Target: 1.18.2-2.5.35
+[06Aug2025 05:56:33.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Aug2025 05:56:33.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.0 Target: 40.3.0
+[06Aug2025 05:56:38.046] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Aug2025 05:56:42.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/assets/.mcassetsroot' uses unexpected schema
+[06Aug2025 05:56:42.482] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/data/.mcassetsroot' uses unexpected schema
+[06Aug2025 05:56:48.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:56:48.337] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:56:48.345] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:56:48.350] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:56:48.351] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:56:48.359] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:56:58.450] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -178,7 +178,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.078] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
+[06Aug2025 05:56:58.488] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -221,7 +221,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.084] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
+[06Aug2025 05:56:58.494] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -264,7 +264,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.100] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
+[06Aug2025 05:56:58.512] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -307,7 +307,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.112] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
+[06Aug2025 05:56:58.531] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -350,7 +350,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.135] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
+[06Aug2025 05:56:58.583] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -393,7 +393,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.145] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
+[06Aug2025 05:56:58.607] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -436,7 +436,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.167] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
+[06Aug2025 05:56:58.652] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -479,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.180] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
+[06Aug2025 05:56:58.678] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -522,7 +522,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.185] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
+[06Aug2025 05:56:58.684] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
 com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
@@ -569,7 +569,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.274] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
+[06Aug2025 05:56:58.709] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -612,7 +612,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.284] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
+[06Aug2025 05:56:58.735] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -655,7 +655,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.290] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
+[06Aug2025 05:56:58.739] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -698,7 +698,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.296] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
+[06Aug2025 05:56:58.750] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -741,76 +741,85 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[06Aug2025 05:03:57.299] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[06Aug2025 05:04:00.300] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3057 advancements
-[06Aug2025 05:04:03.713] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
-[06Aug2025 05:04:03.719] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
-[06Aug2025 05:04:03.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[06Aug2025 05:04:03.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Aug2025 05:04:03.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Aug2025 05:04:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Aug2025 05:04:04.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Aug2025 05:04:04.184] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Aug2025 05:04:04.386] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Aug2025 05:04:04.387] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Aug2025 05:04:04.388] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Aug2025 05:04:04.388] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Aug2025 05:04:04.490] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Aug2025 05:04:04.491] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[06Aug2025 05:04:05.457] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06Aug2025 05:04:05.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Aug2025 05:04:06.586] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:04:06.591] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:04:06.622] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:04:06.639] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
-[06Aug2025 05:04:06.642] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
-[06Aug2025 05:04:06.644] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
-[06Aug2025 05:04:06.675] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
-[06Aug2025 05:04:06.683] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
-[06Aug2025 05:04:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Aug2025 05:04:08.365] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:08.482] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:08.490] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:08.497] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:08.695] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:09.431] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:09.691] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:10.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:10.940] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:11.192] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:11.706] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:12.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Aug2025 05:04:12.695] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Aug2025 05:04:13.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Aug2025 05:04:13.690] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[06Aug2025 05:04:14.190] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
-[06Aug2025 05:04:14.688] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[06Aug2025 05:04:15.189] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[06Aug2025 05:04:15.689] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
-[06Aug2025 05:04:16.198] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9511 ms
-[06Aug2025 05:04:16.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.751s)! For help, type "help"
-[06Aug2025 05:04:16.344] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Aug2025 05:04:16.410] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[06Aug2025 05:04:16.447] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[06Aug2025 05:13:47.885] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a41acfe
-[06Aug2025 05:13:47.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:59605] logged in with entity id 703 at (13.176657978359795, 82.0, 220.97649761804783)
-[06Aug2025 05:13:47.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
-[06Aug2025 05:13:48.098] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
-[06Aug2025 05:13:50.398] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
-[06Aug2025 05:13:50.400] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
-[06Aug2025 05:14:08.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
-[06Aug2025 05:14:18.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the time to 1000]
-[06Aug2025 05:18:09.953] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2276c3b1
-[06Aug2025 05:18:09.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:36759] logged in with entity id 1473 at (29.7063899621048, 71.0, 74.29623728243398)
-[06Aug2025 05:18:09.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
-[06Aug2025 05:18:10.031] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
-[06Aug2025 05:18:19.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
-[06Aug2025 05:18:19.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
-[06Aug2025 05:20:52.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
-[06Aug2025 05:20:59.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
-[06Aug2025 05:30:38.787] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-234, y=-2, z=409}
-[06Aug2025 05:30:57.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Acquire Hardware]
-[06Aug2025 05:30:59.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Ashes 'n Bones]
-[06Aug2025 05:31:03.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Isn't It Iron Pick]
-[06Aug2025 05:36:33.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Suit Up]
-[06Aug2025 05:38:09.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Not Today, Thank You]
+[06Aug2025 05:56:58.755] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[06Aug2025 05:57:02.234] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3057 advancements
+[06Aug2025 05:57:05.395] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 05:57:05.406] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 05:57:05.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Aug2025 05:57:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Aug2025 05:57:05.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Aug2025 05:57:05.803] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Aug2025 05:57:06.067] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Aug2025 05:57:06.068] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Aug2025 05:57:06.068] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Aug2025 05:57:06.069] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Aug2025 05:57:06.132] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 05:57:06.133] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 05:57:06.135] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 05:57:07.147] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Aug2025 05:57:07.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Aug2025 05:57:08.279] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:57:08.295] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:57:08.304] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:57:08.358] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[06Aug2025 05:57:08.362] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:57:08.370] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:57:08.376] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:57:08.415] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[06Aug2025 05:57:08.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Aug2025 05:57:09.965] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:10.404] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:10.414] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:10.505] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:10.541] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:10.923] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:11.601] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:11.933] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:12.023] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[06Aug2025 05:57:12.459] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:12.920] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:13.067] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[06Aug2025 05:57:13.421] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:13.924] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:57:14.426] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[06Aug2025 05:57:14.924] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 05:57:15.237] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[06Aug2025 05:57:15.421] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 05:57:15.922] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[06Aug2025 05:57:16.420] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[06Aug2025 05:57:16.922] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[06Aug2025 05:57:17.426] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[06Aug2025 05:57:18.185] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9766 ms
+[06Aug2025 05:57:18.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.089s)! For help, type "help"
+[06Aug2025 05:57:18.326] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Aug2025 05:57:18.393] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06Aug2025 05:57:18.544] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[06Aug2025 05:57:49.690] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@195437e9
+[06Aug2025 05:57:49.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:55573] logged in with entity id 681 at (-5.445226672712847, 60.640529944148334, 151.77641092463944)
+[06Aug2025 05:57:49.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
+[06Aug2025 05:57:50.021] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
+[06Aug2025 05:57:50.174] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
+[06Aug2025 05:57:50.177] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
+[06Aug2025 05:58:24.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Disconnected
+[06Aug2025 05:58:24.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
+[06Aug2025 05:58:24.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
+[06Aug2025 05:58:34.338] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e09d9b8
+[06Aug2025 05:58:34.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:49903] logged in with entity id 970 at (-2.9780821780262867, 80.0, 227.23639115087272)
+[06Aug2025 05:58:34.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
+[06Aug2025 05:58:34.382] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
+[06Aug2025 05:58:34.644] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
+[06Aug2025 05:58:34.645] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
+[06Aug2025 05:59:34.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c6682c
+[06Aug2025 05:59:34.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:59129] logged in with entity id 1233 at (2.6447952498975646, -29.354581531093345, 304.5165103803737)
+[06Aug2025 05:59:34.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
+[06Aug2025 05:59:34.967] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[06Aug2025 05:59:35.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
+[06Aug2025 05:59:35.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
+[06Aug2025 05:59:59.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 06:00:13.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 06:00:19.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 06:00:24.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Acquire Hardware]
+[06Aug2025 06:04:39.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Suit Up]
+[06Aug2025 06:04:58.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Isn't It Iron Pick]
