@@ -975,3 +975,95 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [06Aug2025 07:15:58.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa walked into fire whilst fighting Piglin
 [06Aug2025 07:15:58.189] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
 [06Aug2025 07:16:10.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:17:39.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa fell from a high place
+[06Aug2025 07:17:39.616] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:17:39.617] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:17:59.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:17:59.993] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:17:59.994] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:18:08.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:18:15.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:18:55.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:18:55.336] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:18:55.338] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:19:06.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:19:06.773] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:19:27.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Sweet Dreams]
+[06Aug2025 07:22:27.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Disconnected
+[06Aug2025 07:22:27.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
+[06Aug2025 07:22:27.491] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
+[06Aug2025 07:24:57.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Best Friends Forever]
+[06Aug2025 07:25:36.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4295f420
+[06Aug2025 07:25:36.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:43575] logged in with entity id 20908 at (422.42908505322566, 96.0, 403.1893501098835)
+[06Aug2025 07:25:36.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
+[06Aug2025 07:25:36.105] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
+[06Aug2025 07:25:39.459] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
+[06Aug2025 07:25:39.460] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
+[06Aug2025 07:25:48.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Pic-A-Nic Basket?]
+[06Aug2025 07:26:52.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Pic-A-Nic Basket?]
+[06Aug2025 07:29:31.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
+[06Aug2025 07:29:31.180] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:29:31.209] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:30:19.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was doomed to fall by KillerPCausa
+[06Aug2025 07:30:19.541] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:30:19.542] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:30:59.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:30:59.539] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:30:59.540] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:31:04.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:31:13.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:31:41.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:32:13.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa hit the ground too hard
+[06Aug2025 07:32:13.937] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:32:13.938] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:33:24.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
+[06Aug2025 07:33:24.646] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:33:24.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa blew up
+[06Aug2025 07:33:24.647] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:33:24.655] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:33:24.655] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:33:42.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa blew up
+[06Aug2025 07:34:48.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
+[06Aug2025 07:34:48.242] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:34:48.253] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:34:53.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT went up in flames
+[06Aug2025 07:34:53.787] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:34:56.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:35:03.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:35:03.859] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:35:03.861] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:35:09.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
+[06Aug2025 07:36:04.133] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Aug2025 07:36:04.135] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Aug2025 07:36:05.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[06Aug2025 07:37:19.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21864, l='ServerLevel[world]', x=394.50, y=147.00, z=820.50] died, message: 'Librarian blew up'
+[06Aug2025 07:37:19.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
+[06Aug2025 07:37:19.443] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:37:19.455] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:37:23.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:37:27.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT burned to death
+[06Aug2025 07:37:27.740] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:37:31.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:37:32.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:37:57.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21868, l='ServerLevel[world]', x=398.67, y=147.00, z=833.35] died, message: 'Cleric was slain by Zabitar_YTYT'
+[06Aug2025 07:37:57.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Neighborhood Brawl]
+[06Aug2025 07:38:35.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:38:37.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT fell from a high place
+[06Aug2025 07:38:37.338] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 07:38:37.339] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 07:38:49.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 07:40:06.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/21866, l='ServerLevel[world]', x=408.30, y=149.00, z=839.96] died, message: 'Librarian was slain by Zombie'
+[06Aug2025 07:40:46.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Sweet Dreams]
+[06Aug2025 07:41:24.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was doomed to fall by Zabitar_YTYT
+[06Aug2025 07:41:24.139] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 07:41:24.140] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 07:41:29.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:41:46.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:42:05.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:42:06.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:43:43.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:43:48.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:44:09.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:44:15.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 07:44:53.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 07:45:08.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]

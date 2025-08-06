@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-06 07:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-05 01:17:01 +0000"
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -215,6 +233,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-06 07:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-06 06:29:37 +0000"
@@ -224,6 +254,12 @@
   "cfm:recipes/cfm/diorite_chair": {
     "criteria": {
       "has_planks": "2025-08-06 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -245,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-06 07:27:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
@@ -260,6 +302,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -311,6 +359,12 @@
     },
     "done": true
   },
+  "byg:recipes/building_blocks/aspen_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:40:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/ancient_debris_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
@@ -353,6 +407,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 05:34:54 +0000"
@@ -374,6 +434,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-06 05:31:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/frontier_cap": {
+    "criteria": {
+      "has_items": "2025-08-06 07:27:05 +0000"
     },
     "done": true
   },
@@ -491,9 +557,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_radar": {
     "criteria": {
       "has_redstone": "2025-08-06 05:38:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -524,6 +602,18 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-06 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-06 07:40:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-08-06 07:16:30 +0000"
     },
     "done": true
   },
@@ -641,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-08-06 05:47:15 +0000"
@@ -678,6 +774,7 @@
       "minecraft:piglin_brute": "2025-08-06 07:10:15 +0000",
       "minecraft:slime": "2025-08-06 06:05:56 +0000",
       "minecraft:cave_spider": "2025-08-06 06:17:55 +0000",
+      "minecraft:piglin": "2025-08-06 07:14:16 +0000",
       "minecraft:enderman": "2025-08-06 05:37:11 +0000",
       "minecraft:zombie": "2025-08-06 05:40:01 +0000",
       "minecraft:drowned": "2025-08-05 01:24:18 +0000"
@@ -708,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-06 06:07:41 +0000"
@@ -717,6 +820,12 @@
   "securitycraft:recipes/securitycraft/iron_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -762,6 +871,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/tools/falconry_glove": {
+    "criteria": {
+      "has_items": "2025-08-06 07:27:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
@@ -774,9 +889,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-06 07:27:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-08-06 06:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-06 07:12:29 +0000"
     },
     "done": true
   },
@@ -786,9 +913,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-06 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-06 07:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-06 07:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-06 06:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-06 07:35:45 +0000"
     },
     "done": true
   },
@@ -810,6 +961,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-06 07:24:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 07:37:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/stone_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
@@ -828,6 +991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-06 07:35:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
@@ -840,9 +1009,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/granite_cabinet": {
     "criteria": {
       "has_planks": "2025-08-06 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -930,6 +1111,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 07:16:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-08-06 06:50:09 +0000"
@@ -966,6 +1153,12 @@
     },
     "done": true
   },
+  "byg:recipes/building_blocks/aspen_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-08-05 01:13:04 +0000"
@@ -984,9 +1177,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-06 07:27:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-08-06 05:38:48 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/building_blocks/aspen_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -1014,6 +1219,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-06 06:22:45 +0000"
@@ -1032,6 +1243,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
@@ -1044,9 +1261,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-06 07:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-06 05:33:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/banner_pattern_bear": {
+    "criteria": {
+      "has_items": "2025-08-06 07:27:05 +0000"
     },
     "done": true
   },
@@ -1059,6 +1288,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
     },
     "done": true
   },
@@ -1110,6 +1345,19 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 07:40:44 +0000",
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-08-06 05:31:03 +0000"
@@ -1119,6 +1367,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-06 07:37:39 +0000"
     },
     "done": true
   },
@@ -1164,9 +1418,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-06 06:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-06 07:35:45 +0000"
     },
     "done": true
   },
@@ -1284,6 +1556,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-08-05 01:24:44 +0000"
@@ -1314,8 +1592,12 @@
       "minecraft:lukewarm_ocean": "2025-08-05 01:08:52 +0000",
       "minecraft:river": "2025-08-05 01:20:01 +0000",
       "minecraft:stony_shore": "2025-08-05 01:07:00 +0000",
+      "minecraft:dripstone_caves": "2025-08-06 07:38:37 +0000",
+      "minecraft:grove": "2025-08-06 07:35:48 +0000",
+      "minecraft:jagged_peaks": "2025-08-06 07:38:36 +0000",
       "minecraft:forest": "2025-08-06 05:23:39 +0000",
       "minecraft:jungle": "2025-08-06 06:32:16 +0000",
+      "minecraft:meadow": "2025-08-06 07:33:10 +0000",
       "minecraft:savanna": "2025-08-05 01:08:28 +0000",
       "minecraft:plains": "2025-08-06 06:46:51 +0000"
     },
@@ -1333,15 +1615,39 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-06 07:37:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -1354,6 +1660,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-05 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-06 07:15:51 +0000"
     },
     "done": true
   },
@@ -1441,9 +1753,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-06 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
     },
     "done": true
   },
@@ -1456,6 +1780,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 07:35:45 +0000"
     },
     "done": true
   },
@@ -1480,6 +1810,12 @@
   "securitycraft:recipes/securitycraft/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-06 07:35:32 +0000"
     },
     "done": true
   },
@@ -1510,6 +1846,13 @@
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-08-06 07:40:44 +0000",
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
     },
     "done": true
   },
@@ -1627,6 +1970,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-06 07:35:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
@@ -1705,6 +2066,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
@@ -1720,6 +2087,12 @@
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2025-08-05 01:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
     },
     "done": true
   },
@@ -1843,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
@@ -1933,6 +2312,18 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/flying_fish_boots": {
+    "criteria": {
+      "has_items": "2025-08-06 07:35:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-08-06 05:38:48 +0000"
@@ -1943,6 +2334,7 @@
     "criteria": {
       "cooked_mutton": "2025-08-06 05:26:59 +0000",
       "cooked_beef": "2025-08-06 06:02:37 +0000",
+      "mutton": "2025-08-06 07:39:17 +0000",
       "golden_apple": "2025-08-06 05:37:15 +0000",
       "bread": "2025-08-06 06:00:00 +0000",
       "rotten_flesh": "2025-08-06 06:25:42 +0000",
@@ -1959,6 +2351,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-08-05 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -1980,9 +2378,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/purple_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-08-06 07:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-06 07:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -2013,6 +2429,12 @@
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
     },
     "done": true
   },
@@ -2166,6 +2588,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-06 06:22:45 +0000"
@@ -2181,6 +2609,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-06 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-06 07:27:54 +0000"
     },
     "done": true
   },
@@ -2220,6 +2654,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-06 07:25:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-08-06 05:47:36 +0000"
@@ -2235,6 +2675,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-06 05:27:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -2256,6 +2702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-06 07:15:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 05:34:54 +0000"
@@ -2271,6 +2723,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-08-06 05:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
     },
     "done": true
   },
@@ -2382,9 +2840,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-06 07:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-08-06 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -2418,9 +2894,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-06 07:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -2433,6 +2921,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
     },
     "done": true
   },
@@ -2478,6 +2972,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/redstone_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
@@ -2490,9 +2990,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-08-06 06:50:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -2598,9 +3110,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-06 05:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
     },
     "done": true
   },
@@ -2619,6 +3143,12 @@
   "securitycraft:recipes/securitycraft/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 07:34:49 +0000"
     },
     "done": true
   },
@@ -2703,6 +3233,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-08-05 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-06 07:15:51 +0000"
     },
     "done": true
   },
@@ -2796,6 +3332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-08-06 05:27:27 +0000"
@@ -2838,6 +3380,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-06 06:50:19 +0000"
@@ -2859,6 +3407,18 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-08-05 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-08-06 07:34:39 +0000"
     },
     "done": true
   },
@@ -2904,9 +3464,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 07:35:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_chair": {
     "criteria": {
       "has_log": "2025-08-05 01:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -2922,6 +3494,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-06 06:50:19 +0000"
@@ -2931,6 +3515,12 @@
   "cfm:recipes/cfm/diorite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-06 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -2988,6 +3578,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2025-08-06 05:26:46 +0000"
@@ -3018,9 +3620,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-06 05:33:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-06 07:15:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-08-06 07:15:51 +0000"
     },
     "done": true
   },
@@ -3096,6 +3722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -3126,6 +3758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-06 07:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
@@ -3135,6 +3773,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-06 05:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
     },
     "done": true
   },
@@ -3150,9 +3794,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
     },
     "done": true
   },
@@ -3207,6 +3863,18 @@
   "cfm:recipes/cfm/diorite_cabinet": {
     "criteria": {
       "has_planks": "2025-08-06 05:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 07:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-06 07:35:45 +0000"
     },
     "done": true
   },
