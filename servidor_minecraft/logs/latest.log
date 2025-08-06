@@ -831,3 +831,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [06Aug2025 06:08:52.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [06Aug2025 06:09:08.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
 [06Aug2025 06:09:36.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
+[06Aug2025 06:17:42.529] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-114, y=16, z=543}
+[06Aug2025 06:18:18.882] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-276, y=8, z=84}
+[06Aug2025 06:19:19.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Cave Spider
+[06Aug2025 06:19:19.492] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 06:19:19.496] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 06:19:31.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
+[06Aug2025 06:19:49.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 06:19:50.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was slain by Cave Spider
+[06Aug2025 06:19:55.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 06:24:01.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa fell from a high place
+[06Aug2025 06:24:01.495] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[06Aug2025 06:24:01.496] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[06Aug2025 06:24:09.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[06Aug2025 06:25:15.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Diamonds!]
+[06Aug2025 06:25:48.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]

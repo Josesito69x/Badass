@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-06 06:13:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2025-08-05 01:13:04 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -170,6 +182,12 @@
   "cfm:recipes/cfm/acacia_cabinet": {
     "criteria": {
       "has_log": "2025-08-05 01:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
     },
     "done": true
   },
@@ -263,6 +281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_cabinet": {
     "criteria": {
       "has_planks": "2025-08-06 05:27:30 +0000"
@@ -272,6 +302,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-06 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
     },
     "done": true
   },
@@ -514,6 +550,7 @@
       "minecraft:skeleton": "2025-08-06 05:38:19 +0000",
       "minecraft:spider": "2025-08-06 05:36:05 +0000",
       "minecraft:slime": "2025-08-06 06:05:56 +0000",
+      "minecraft:cave_spider": "2025-08-06 06:17:55 +0000",
       "minecraft:enderman": "2025-08-06 05:37:11 +0000",
       "minecraft:zombie": "2025-08-06 05:40:01 +0000",
       "minecraft:drowned": "2025-08-05 01:24:18 +0000"
@@ -673,6 +710,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-06 06:13:34 +0000"
     },
     "done": true
   },
@@ -1346,6 +1389,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2025-08-06 05:38:48 +0000"
@@ -1502,6 +1551,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-06 06:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-06 05:47:39 +0000"
@@ -1549,7 +1604,8 @@
       "cooked_mutton": "2025-08-06 05:26:59 +0000",
       "cooked_beef": "2025-08-06 06:02:37 +0000",
       "golden_apple": "2025-08-06 05:37:15 +0000",
-      "bread": "2025-08-06 06:00:00 +0000"
+      "bread": "2025-08-06 06:00:00 +0000",
+      "carrot": "2025-08-06 06:12:48 +0000"
     },
     "done": false
   },
@@ -1613,6 +1669,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-06 05:28:19 +0000"
@@ -1667,6 +1729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -1688,6 +1756,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-08-06 05:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
     },
     "done": true
   },
@@ -2069,6 +2143,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-06 05:46:21 +0000"
@@ -2192,6 +2272,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-08-06 05:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
     },
     "done": true
   },
@@ -2501,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-06 06:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-08-05 01:13:50 +0000"
@@ -2594,6 +2686,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-06 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
     },
     "done": true
   },
