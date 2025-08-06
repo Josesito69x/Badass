@@ -1,0 +1,794 @@
+[06Aug2025 05:02:59.221] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[06Aug2025 05:02:59.225] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[06Aug2025 05:03:01.323] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Badass/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[06Aug2025 05:03:01.945] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.0/fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:03:01.947] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.0/javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:03:01.948] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.0/lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:03:01.950] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Badass/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.0/mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[06Aug2025 05:03:02.119] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Aug2025 05:03:06.685] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Aug2025 05:03:06.831] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[06Aug2025 05:03:06.834] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Aug2025 05:03:06.845] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 05:03:06.855] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Aug2025 05:03:18.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[06Aug2025 05:03:18.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[06Aug2025 05:03:18.154] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[06Aug2025 05:03:18.157] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
+                     ==     =-
+                     ==    ==
+               ==    ========     =-
+                =============== -=
+               :==================
+           ==+=====================   =           #####   ######   ##  ##     ##       ####   ######     ##     #######  ######
+            ==========================           ##   ##  # ## #   ##  ##    ####     ##  ##   ##  ##   ####     ##   #  # ## #
+            ==========     ==========            ##   ##    ##     ##  ##   ##  ##   ##        ##  ##  ##  ##    ## #      ##
+        +  =========         ========+           ##   ##    ##      ####    ##  ##   ##        #####   ##  ##    ####      ##
+        -+=========           ========++++       ##   ##    ##       ##     ######   ##        ## ##   ######    ## #      ##
+          ========+           +========+.        ##   ##    ##       ##     ##  ##    ##  ##   ##  ##  ##  ##    ##        ##
+          +=======*           *=======*           #####    ####     ####    ##  ##     ####   #### ##  ##  ##   ####      ####
+          ========*           +=======*
+       *+=-========           =========                       #######  ##   ##    ####    ####    ##   ##  #######
+           =========         ========= +=                      ##   #  ###  ##   ##  ##    ##     ###  ##   ##   #
+           -=========.     -=========                          ## #    #### ##  ##         ##     #### ##   ## #
+          :=========================-                          ####    ## ####  ##         ##     ## ####   ####
+          =   =======================-                         ## #    ##  ###  ##  ###    ##     ##  ###   ## #
+               ==================    -                         ##   #  ##   ##   ##  ##    ##     ##   ##   ##   #
+               =================+                             #######  ##   ##    #####   ####    ##   ##  #######
+              =.    ========   .=
+                    =     ==
+                   *=     =+
+
+[06Aug2025 05:03:18.161] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[06Aug2025 05:03:18.161] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[06Aug2025 05:03:18.162] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[06Aug2025 05:03:18.165] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[06Aug2025 05:03:18.166] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[06Aug2025 05:03:18.177] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[06Aug2025 05:03:18.177] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.0, for MC 1.18.2 with MCP 20220404.173914
+[06Aug2025 05:03:18.534] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.0 Initialized
+[06Aug2025 05:03:27.655] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[06Aug2025 05:03:27.656] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[06Aug2025 05:03:28.632] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[06Aug2025 05:03:28.659] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[06Aug2025 05:03:28.657] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 05:03:28.788] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 05:03:29.016] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[06Aug2025 05:03:29.055] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[06Aug2025 05:03:29.056] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[06Aug2025 05:03:29.056] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[06Aug2025 05:03:29.203] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/overworld/byg-overworld-biomes.json5" was read.
+[06Aug2025 05:03:29.211] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/byg-biome-dictionary.json" was read.
+[06Aug2025 05:03:29.236] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:03:29.252] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:03:29.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[06Aug2025 05:03:29.407] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:03:29.468] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/growing-patterns.json5" was read.
+[06Aug2025 05:03:29.548] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/trades.json5" was read.
+[06Aug2025 05:03:29.573] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/settings.json5" was read.
+[06Aug2025 05:03:29.578] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/biomepedia.json5" was read.
+[06Aug2025 05:03:29.699] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: Created compressed zip back up for "/workspaces/Badass/servidor_minecraft/config/byg" in "/workspaces/Badass/servidor_minecraft/config/byg/backups/last_working_configs_backup.zip"
+[06Aug2025 05:03:29.732] [modloading-worker-0/INFO] [potionstudios.byg.BYG/]: BYG: Added strippable Blocks...
+[06Aug2025 05:03:29.747] [main/INFO] [journeymap/]: Initializing Packet Registries
+[06Aug2025 05:03:29.794] [main/INFO] [potionstudios.byg.BYG/]: Initializing BYG network...
+[06Aug2025 05:03:29.802] [main/INFO] [potionstudios.byg.BYG/]: Initialized BYG network!
+[06Aug2025 05:03:29.834] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Aug2025 05:03:29.836] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Aug2025 05:03:29.837] [main/INFO] [terrablender/]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[06Aug2025 05:03:29.839] [main/INFO] [terrablender/]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[06Aug2025 05:03:29.842] [main/INFO] [terrablender/]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[06Aug2025 05:03:29.847] [main/INFO] [terrablender/]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[06Aug2025 05:03:29.973] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[06Aug2025 05:03:29.974] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[06Aug2025 05:03:29.992] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[06Aug2025 05:03:30.011] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[06Aug2025 05:03:30.038] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[06Aug2025 05:03:30.047] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[06Aug2025 05:03:30.053] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[06Aug2025 05:03:30.167] [main/INFO] [potionstudios.byg.BYG/]: BYG: Compostable Blocks Added!
+[06Aug2025 05:03:30.180] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added tillables!
+[06Aug2025 05:03:30.188] [main/INFO] [potionstudios.byg.BYG/]: BYG: Added Flammables!
+[06Aug2025 05:03:30.189] [main/INFO] [potionstudios.byg.BYG/]: BYG: "Load Complete" Event Complete!
+[06Aug2025 05:03:30.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
+[06Aug2025 05:03:30.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[06Aug2025 05:03:30.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.7 Target: 5.9.8
+[06Aug2025 05:03:30.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Aug2025 05:03:31.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.8 Target: 1.10
+[06Aug2025 05:03:31.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Aug2025 05:03:31.193] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.7 Target: 7.7.7
+[06Aug2025 05:03:31.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[06Aug2025 05:03:31.373] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.0.jar%2374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.0.jar%2374!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	... 6 more
+[06Aug2025 05:03:31.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[06Aug2025 05:03:31.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
+[06Aug2025 05:03:31.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[06Aug2025 05:03:31.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: OUTDATED Current: 3.16.5 Target: 3.16.6
+[06Aug2025 05:03:31.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[06Aug2025 05:03:31.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.1 Target: 1.18.2-2.5.35
+[06Aug2025 05:03:31.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Aug2025 05:03:31.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.0 Target: 40.3.0
+[06Aug2025 05:03:36.483] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Aug2025 05:03:40.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/assets/.mcassetsroot' uses unexpected schema
+[06Aug2025 05:03:40.613] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Badass/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2373!/data/.mcassetsroot' uses unexpected schema
+[06Aug2025 05:03:46.414] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:03:46.416] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:03:46.426] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:03:46.429] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:03:46.433] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06Aug2025 05:03:46.440] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06Aug2025 05:03:57.042] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.078] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.084] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.100] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.112] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.135] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.145] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.167] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.180] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.185] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
+com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:87) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:77) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.0-universal.jar%2378!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.274] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.284] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.290] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.296] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
+	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:155) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2373!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[06Aug2025 05:03:57.299] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[06Aug2025 05:04:00.300] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3057 advancements
+[06Aug2025 05:04:03.713] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/nether-biomes.json5" was read.
+[06Aug2025 05:04:03.719] [main/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/end-biomes.json5" was read.
+[06Aug2025 05:04:03.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[06Aug2025 05:04:03.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06Aug2025 05:04:03.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06Aug2025 05:04:03.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06Aug2025 05:04:04.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06Aug2025 05:04:04.184] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[06Aug2025 05:04:04.386] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06Aug2025 05:04:04.387] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[06Aug2025 05:04:04.388] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06Aug2025 05:04:04.388] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[06Aug2025 05:04:04.490] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 05:04:04.491] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[06Aug2025 05:04:05.457] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[06Aug2025 05:04:05.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06Aug2025 05:04:06.586] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:04:06.591] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:04:06.622] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:04:06.639] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_nether" with biome source: "byg:nether".
+[06Aug2025 05:04:06.642] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/end_surface_rules.json5" was read.
+[06Aug2025 05:04:06.644] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/overworld_surface_rules.json5" was read.
+[06Aug2025 05:04:06.675] [Server thread/INFO] [potionstudios.byg.BYG/]: "/workspaces/Badass/servidor_minecraft/config/byg/surface_rules/nether_surface_rules.json5" was read.
+[06Aug2025 05:04:06.683] [Server thread/INFO] [potionstudios.byg.BYG/]: Loading dimension "minecraft:the_end" with biome source: "byg:end".
+[06Aug2025 05:04:06.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06Aug2025 05:04:08.365] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:08.482] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:08.490] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:08.497] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:08.695] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:09.431] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:09.691] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:10.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:10.940] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:11.192] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:11.706] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:12.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06Aug2025 05:04:12.695] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 05:04:13.189] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 05:04:13.690] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[06Aug2025 05:04:14.190] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[06Aug2025 05:04:14.688] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[06Aug2025 05:04:15.189] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[06Aug2025 05:04:15.689] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[06Aug2025 05:04:16.198] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9511 ms
+[06Aug2025 05:04:16.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.751s)! For help, type "help"
+[06Aug2025 05:04:16.344] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06Aug2025 05:04:16.410] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[06Aug2025 05:04:16.447] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
