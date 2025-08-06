@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-06 08:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 05:30:57 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-08-06 08:33:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-08-06 06:50:09 +0000"
@@ -772,6 +784,7 @@
       "minecraft:skeleton": "2025-08-06 05:38:19 +0000",
       "minecraft:spider": "2025-08-06 05:36:05 +0000",
       "minecraft:piglin_brute": "2025-08-06 07:10:15 +0000",
+      "minecraft:creeper": "2025-08-06 08:30:56 +0000",
       "minecraft:slime": "2025-08-06 06:05:56 +0000",
       "minecraft:cave_spider": "2025-08-06 06:17:55 +0000",
       "minecraft:piglin": "2025-08-06 07:14:16 +0000",
@@ -1556,6 +1569,12 @@
     },
     "done": true
   },
+  "byg:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 08:13:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
@@ -1590,6 +1609,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-08-06 07:53:54 +0000",
       "minecraft:bamboo_jungle": "2025-08-06 07:56:41 +0000",
+      "minecraft:beach": "2025-08-06 08:06:29 +0000",
       "minecraft:stony_peaks": "2025-08-06 06:33:41 +0000",
       "minecraft:sparse_jungle": "2025-08-06 07:54:07 +0000",
       "minecraft:lukewarm_ocean": "2025-08-05 01:08:52 +0000",
@@ -1772,6 +1792,12 @@
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-08-06 08:26:12 +0000"
     },
     "done": true
   },
@@ -2274,6 +2300,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-08-06 08:28:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/dirt_mine": {
     "criteria": {
       "has_mine": "2025-08-06 06:42:12 +0000"
@@ -2344,6 +2376,7 @@
     "criteria": {
       "cooked_mutton": "2025-08-06 05:26:59 +0000",
       "cooked_beef": "2025-08-06 06:02:37 +0000",
+      "potato": "2025-08-06 08:11:43 +0000",
       "mutton": "2025-08-06 07:39:17 +0000",
       "golden_apple": "2025-08-06 05:37:15 +0000",
       "bread": "2025-08-06 06:00:00 +0000",
@@ -3061,6 +3094,12 @@
     },
     "done": true
   },
+  "byg:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 08:13:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_park_bench": {
     "criteria": {
       "has_log": "2025-08-05 01:13:04 +0000"
@@ -3289,6 +3328,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-06 08:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-06 06:22:45 +0000"
@@ -3304,6 +3349,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-06 06:12:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 08:37:39 +0000"
     },
     "done": true
   },
@@ -3532,6 +3583,12 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-08-06 07:40:44 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 08:13:16 +0000"
     },
     "done": true
   },
@@ -3880,6 +3937,12 @@
   "cfm:recipes/cfm/stone_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-05 01:15:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-06 08:37:39 +0000"
     },
     "done": true
   },

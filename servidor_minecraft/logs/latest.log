@@ -1089,3 +1089,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [06Aug2025 08:04:31.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the time to 1000]
 [06Aug2025 08:04:34.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the weather to clear]
 [06Aug2025 08:04:56.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to KillerPCausa]
+[06Aug2025 08:07:28.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:07:35.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 08:09:40.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set the weather to clear]
+[06Aug2025 08:11:47.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to Zabitar_YTYT]
+[06Aug2025 08:15:15.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> ee
+[06Aug2025 08:21:30.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> ni idea
+[06Aug2025 08:21:35.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Que pasa vro
+[06Aug2025 08:21:40.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Chcha no hablas
+[06Aug2025 08:21:54.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> nd pero creo que mi hermana ta medio dormida
+[06Aug2025 08:22:05.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> dame 5 min y vuelvo
+[06Aug2025 08:22:07.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Y? que rico
+[06Aug2025 08:22:10.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> a hablar
+[06Aug2025 08:22:12.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Ya bb
+[06Aug2025 08:22:43.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> wait
+[06Aug2025 08:22:48.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:22:50.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> que fue
+[06Aug2025 08:23:14.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 08:23:31.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:26:52.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Zombie
+[06Aug2025 08:26:52.836] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 08:26:52.843] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 08:27:04.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
+[06Aug2025 08:27:22.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set spawn point to -194, 71, 973 [0.0] in minecraft:overworld for 2 players]
+[06Aug2025 08:28:18.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [Bone Crusher]
+[06Aug2025 08:28:35.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> e
+[06Aug2025 08:29:17.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> bro ya saque madera vn
+[06Aug2025 08:31:36.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Music register]
+[06Aug2025 08:31:48.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [Writing...]
+[06Aug2025 08:32:36.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa has made the advancement [DJ! DJ!]
+[06Aug2025 08:33:21.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 08:33:53.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [DJ! DJ!]
+[06Aug2025 08:36:10.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:36:17.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 08:37:09.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was shot by Skeleton
+[06Aug2025 08:37:09.337] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 08:37:09.339] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 08:37:39.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has made the advancement [Crops of the Wild]
+[06Aug2025 08:37:46.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> Flavia escucha a Trueno
+[06Aug2025 08:37:48.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <KillerPCausa> xd
+[06Aug2025 08:37:53.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zabitar_YTYT> xd
+[06Aug2025 08:40:01.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:42:12.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 08:44:21.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 08:44:31.402] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cec4cba
+[06Aug2025 08:46:18.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
