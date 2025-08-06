@@ -1588,7 +1588,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-08-06 07:53:54 +0000",
+      "minecraft:bamboo_jungle": "2025-08-06 07:56:41 +0000",
       "minecraft:stony_peaks": "2025-08-06 06:33:41 +0000",
+      "minecraft:sparse_jungle": "2025-08-06 07:54:07 +0000",
       "minecraft:lukewarm_ocean": "2025-08-05 01:08:52 +0000",
       "minecraft:river": "2025-08-05 01:20:01 +0000",
       "minecraft:stony_shore": "2025-08-05 01:07:00 +0000",
@@ -1597,6 +1600,7 @@
       "minecraft:jagged_peaks": "2025-08-06 07:38:36 +0000",
       "minecraft:forest": "2025-08-06 05:23:39 +0000",
       "minecraft:jungle": "2025-08-06 06:32:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-06 07:53:59 +0000",
       "minecraft:meadow": "2025-08-06 07:33:10 +0000",
       "minecraft:savanna": "2025-08-05 01:08:28 +0000",
       "minecraft:plains": "2025-08-06 06:46:51 +0000"
@@ -1828,6 +1832,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-08-06 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-06 07:56:44 +0000"
     },
     "done": true
   },
@@ -2338,6 +2348,7 @@
       "golden_apple": "2025-08-06 05:37:15 +0000",
       "bread": "2025-08-06 06:00:00 +0000",
       "rotten_flesh": "2025-08-06 06:25:42 +0000",
+      "cod": "2025-08-06 07:54:25 +0000",
       "carrot": "2025-08-06 06:12:48 +0000"
     },
     "done": false
@@ -2966,6 +2977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-06 07:50:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-05 01:07:54 +0000"
@@ -3155,6 +3172,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-08-05 01:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-06 07:56:44 +0000"
     },
     "done": true
   },
@@ -3422,6 +3445,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-08-06 07:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-06 06:50:09 +0000"
@@ -3641,6 +3670,12 @@
   "cfm:recipes/cfm/jungle_desk": {
     "criteria": {
       "has_planks": "2025-08-06 07:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-06 07:50:55 +0000"
     },
     "done": true
   },
