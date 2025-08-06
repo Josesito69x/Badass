@@ -3536,3 +3536,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [06Aug2025 06:45:08.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
 [06Aug2025 06:45:19.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT blew up
 [06Aug2025 06:45:19.238] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zabitar_YTYT was created at position [x:228, y:-47, z:375, dim:minecraft:overworld]
+[06Aug2025 06:46:20.765] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=193, y=6, z=-300}
+[06Aug2025 06:46:21.726] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=50, y=-16, z=-289}
+[06Aug2025 06:47:13.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=-48, z=375} BlockPos{x=235, y=-49, z=375}
+[06Aug2025 06:47:18.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 06:47:18.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 06:50:32.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[06Aug2025 06:50:42.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 1 [Stone Pickaxe] to Zabitar_YTYT]
+[06Aug2025 06:50:46.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[06Aug2025 06:51:18.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Removed 1 items from player Zabitar_YTYT]
+[06Aug2025 06:51:29.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 1 [Diamond Pickaxe] to Zabitar_YTYT]
+[06Aug2025 06:52:03.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT fell from a high place
+[06Aug2025 06:52:03.020] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 06:52:03.021] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 06:52:15.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
+[06Aug2025 06:52:18.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 06:52:18.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 06:52:30.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT fell from a high place
+[06Aug2025 06:54:16.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT has reached the goal [Discreet Search]
+[06Aug2025 06:54:25.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT blew up
+[06Aug2025 06:54:25.939] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[06Aug2025 06:54:25.940] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 06:54:26.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT blew up
+[06Aug2025 06:54:26.658] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zabitar_YTYT was created at position [x:230, y:-50, z:376, dim:minecraft:overworld]
+[06Aug2025 06:54:26.664] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[06Aug2025 06:54:41.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=70, z=59}
+[06Aug2025 06:54:41.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=32, y=69, z=59}
+[06Aug2025 06:55:55.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[06Aug2025 06:55:58.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Teleported KillerPCausa to Zabitar_YTYT]
