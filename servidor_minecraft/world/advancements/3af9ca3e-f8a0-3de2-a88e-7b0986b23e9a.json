@@ -4138,6 +4138,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-08-07 05:47:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-05 01:14:54 +0000"
