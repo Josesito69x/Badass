@@ -3972,6 +3972,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-07 06:43:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-08-05 01:27:43 +0000"
