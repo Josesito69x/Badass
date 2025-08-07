@@ -859,15 +859,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-08-06 08:20:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-06 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 08:20:24 +0000"
     },
     "done": true
   },
@@ -3509,15 +3509,15 @@
     },
     "done": true
   },
-  "byg:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-08-06 08:20:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-08-06 08:20:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 08:20:55 +0000"
     },
     "done": true
   },
