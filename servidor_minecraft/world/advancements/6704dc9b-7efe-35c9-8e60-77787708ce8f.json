@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-07 05:58:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diorite_chair": {
     "criteria": {
       "has_planks": "2025-08-06 06:18:34 +0000"
@@ -833,6 +839,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-06 07:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-07 06:19:49 +0000"
     },
     "done": true
   },
@@ -2318,6 +2330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-07 05:58:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_andesite": "2025-08-06 06:18:50 +0000"
@@ -2357,6 +2375,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-08-06 06:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-07 06:19:49 +0000"
     },
     "done": true
   },
@@ -3444,6 +3468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-07 06:19:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-08-05 01:15:38 +0000"
@@ -4143,6 +4173,12 @@
   "cfm:recipes/cfm/warped_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-08-06 07:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-07 05:58:12 +0000"
     },
     "done": true
   },
