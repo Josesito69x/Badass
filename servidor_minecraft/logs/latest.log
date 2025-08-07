@@ -829,3 +829,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Aug2025 05:27:19.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to KillerPCausa]
 [07Aug2025 05:28:22.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [07Aug2025 05:28:40.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[07Aug2025 05:32:20.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[07Aug2025 05:32:32.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[07Aug2025 05:35:38.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa is bleeding. KillerPCausa was slain by Zabitar_YTYT
+[07Aug2025 05:35:38.174] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[07Aug2025 05:35:38.176] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[07Aug2025 05:35:46.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa was slain by Zabitar_YTYT
+[07Aug2025 05:35:46.815] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[07Aug2025 05:36:12.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was shot by Skeleton
+[07Aug2025 05:36:12.104] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[07Aug2025 05:36:12.106] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[07Aug2025 05:36:19.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was shot by Skeleton
+[07Aug2025 05:37:21.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[07Aug2025 05:37:31.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
