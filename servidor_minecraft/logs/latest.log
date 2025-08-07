@@ -817,3 +817,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 [07Aug2025 05:20:08.712] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
 [07Aug2025 05:20:08.720] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
 [07Aug2025 05:20:39.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT was shot by Skeleton
+[07Aug2025 05:21:56.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Disconnected
+[07Aug2025 05:21:56.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT left the game
+[07Aug2025 05:21:56.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zabitar_YTYT
+[07Aug2025 05:26:39.773] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1212758f
+[07Aug2025 05:26:39.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:43361] logged in with entity id 5912 at (-133.03300918391932, 65.0, 988.0639186663727)
+[07Aug2025 05:26:39.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
+[07Aug2025 05:26:39.855] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[07Aug2025 05:26:47.043] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
+[07Aug2025 05:26:47.043] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
+[07Aug2025 05:27:19.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Gave 64 [Bread] to KillerPCausa]
+[07Aug2025 05:28:22.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[07Aug2025 05:28:40.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
