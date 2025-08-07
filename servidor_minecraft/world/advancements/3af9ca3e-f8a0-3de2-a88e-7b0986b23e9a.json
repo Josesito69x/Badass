@@ -1166,6 +1166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-07 00:08:49 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/building_blocks/aspen_stairs": {
     "criteria": {
       "has_planks": "2025-08-06 07:40:27 +0000"

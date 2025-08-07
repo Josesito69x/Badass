@@ -19,3 +19,41 @@
 [07Aug2025 00:10:03.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT is bleeding. Zabitar_YTYT was slain by Spider
 [07Aug2025 00:10:03.072] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
 [07Aug2025 00:10:03.076] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[07Aug2025 00:11:01.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[07Aug2025 00:11:54.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Timed out
+[07Aug2025 00:11:54.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT left the game
+[07Aug2025 00:11:54.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zabitar_YTYT
+[07Aug2025 00:11:54.378] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 00:11:58.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Timed out
+[07Aug2025 00:11:58.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
+[07Aug2025 00:11:58.216] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
+[07Aug2025 00:12:07.066] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@470f5496
+[07Aug2025 00:12:07.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KillerPCausa[/127.117.54.129:40691] logged in with entity id 3028 at (-213.69999998807907, 78.0, 973.7517389043593)
+[07Aug2025 00:12:07.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa joined the game
+[07Aug2025 00:12:07.098] [Server thread/INFO] [Waila/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
+[07Aug2025 00:12:07.395] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KillerPCausa (18)
+[07Aug2025 00:12:07.396] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KillerPCausa
+[07Aug2025 00:12:26.778] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74d1587f
+[07Aug2025 00:12:26.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:58017] logged in with entity id 3341 at (-178.6847371622842, 78.23152379758702, 990.4910440740919)
+[07Aug2025 00:12:26.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT joined the game
+[07Aug2025 00:12:26.848] [Server thread/INFO] [Waila/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[07Aug2025 00:12:27.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zabitar_YTYT (18)
+[07Aug2025 00:12:27.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zabitar_YTYT
+[07Aug2025 00:12:27.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[07Aug2025 00:12:52.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Timed out
+[07Aug2025 00:12:52.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KillerPCausa left the game
+[07Aug2025 00:12:52.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KillerPCausa
+[07Aug2025 00:12:56.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Timed out
+[07Aug2025 00:12:56.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zabitar_YTYT left the game
+[07Aug2025 00:12:56.919] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zabitar_YTYT
+[07Aug2025 00:12:58.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[07Aug2025 00:12:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 00:12:58.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 00:12:58.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 00:12:59.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 00:12:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 00:12:59.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 00:12:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 00:12:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 00:12:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 00:12:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
